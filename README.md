@@ -59,10 +59,15 @@ Built entirely with **vanilla JavaScript** — no frameworks, just clean logic a
 ---
 
 ## 🧱 Folder Structure
-modern-todo/
-├── index.html # App HTML
-├── style.css # Styling & variables (light/dark)
-├── app.js # Application logic (add/edit/delete/toggle/theme)
-├── assets/ # Optional: screenshots, icons
-└── README.md # This file
+📂 To-Do List/
+│
+├── 📄 index.html         # Main structure of the web app
+├── 🎨 style.css          # Styling, animations, and theme variables (light/dark)
+├── ⚙️ app.js             # Core logic (add/edit/delete/toggle/theme)
+│
+├── 🖼️ assets/            # (optional) Screenshots, icons, or illustrations
+│   ├── light-mode.png
+│   └── dark-mode.png
+│
+└── 📘 README.md          # This file - full documentation
 
