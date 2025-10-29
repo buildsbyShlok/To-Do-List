@@ -57,4 +57,9 @@ Built entirely with **vanilla JavaScript** — no frameworks, just clean logic a
 | **SF Pro / Inter Fonts** | Clean and professional typography |
 
 ---
+## 🌐 Live Demo
+
+🚀 The project is deployed and live on **Netlify**!  
+👉 [**Visit the Website**](https://to-do-list-1-6.netlify.app/)
+
 
