@@ -32,7 +32,6 @@ Built entirely with **vanilla JavaScript** — no frameworks, just clean logic a
 |:--------------:|:-------------:|
 | ![Light Mode](assets/light-mode.png) | ![Dark Mode](assets/dark-mode.png) |
 
-> *(Replace with your own screenshots — place them inside the `assets/` folder.)*
 
 ---
 
@@ -60,4 +59,10 @@ Built entirely with **vanilla JavaScript** — no frameworks, just clean logic a
 ---
 
 ## 🧱 Folder Structure
+modern-todo/
+├── index.html # App HTML
+├── style.css # Styling & variables (light/dark)
+├── app.js # Application logic (add/edit/delete/toggle/theme)
+├── assets/ # Optional: screenshots, icons
+└── README.md # This file
 
