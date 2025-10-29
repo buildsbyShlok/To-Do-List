@@ -1,4 +1,4 @@
-<h1 align="center">📝 Modern To-Do List Web App</h1>
+<h1 align="center">📝 To-Do List Web App</h1>
 
 <p align="center">
   <i>A clean, elegant, and responsive To-Do List built with pure HTML, CSS, and JavaScript.</i><br/>
@@ -57,17 +57,4 @@ Built entirely with **vanilla JavaScript** — no frameworks, just clean logic a
 | **SF Pro / Inter Fonts** | Clean and professional typography |
 
 ---
-
-## 🧱 Folder Structure
-📂 To-Do List/
-│
-├── 📄 index.html         # Main structure of the web app
-├── 🎨 style.css          # Styling, animations, and theme variables (light/dark)
-├── ⚙️ app.js             # Core logic (add/edit/delete/toggle/theme)
-│
-├── 🖼️ assets/            # (optional) Screenshots, icons, or illustrations
-│   ├── light-mode.png
-│   └── dark-mode.png
-│
-└── 📘 README.md          # This file - full documentation
 
