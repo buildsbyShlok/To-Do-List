@@ -15,7 +15,7 @@
 ---
 ## 🌐 Live Demo
 
-🚀 The project is deployed and live on **Netlify**!  
+🚀 The project is deployed and live on **Netlify**! <br>
 👉 [**Visit the Website**](https://to-do-list-1-6.netlify.app/)
 
 ---
